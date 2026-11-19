@@ -1,0 +1,27 @@
+# Problem Statement – Customer Shopping Behaviour Analysis
+
+## Business Problem
+
+Retail businesses collect large amounts of customer shopping data but often struggle to turn it into meaningful insights.
+
+Without proper analysis, it becomes difficult to understand customer preferences, identify purchasing trends, evaluate product performance, and make informed business decisions.
+
+## Project Objective
+
+The objective of this project is to analyze customer shopping behaviour using Python, PostgreSQL, and Power BI to identify purchasing patterns, customer preferences, and key business insights.
+
+## Key Business Questions
+
+- Which product categories are most popular?
+- How does purchasing behaviour vary across age groups?
+- Which customer segments contribute more to sales?
+- How do discounts influence purchasing patterns?
+- What are the major trends in customer spending and purchasing frequency?
+
+## Business Value
+
+The analysis aims to help businesses better understand their customers, identify sales opportunities, improve marketing strategies, and support data-driven decision-making.
+
+## Scope
+
+This project focuses on exploratory and descriptive analysis of the available customer shopping dataset. Findings are based on the available data and are intended to support business understanding rather than predict future outcomes.
