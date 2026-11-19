@@ -36,7 +36,6 @@ Analysis of customer preferences, purchasing trends, product categories, and cus
 4. Set up PostgreSQL and execute the SQL scripts.
 5. Open the `.pbix` file in Power BI Desktop.
 
-
 ---
 
 **Project Type:** Data Analytics Portfolio Project
